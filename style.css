@@ -150,3 +150,37 @@ cursor: pointer;
  .service-img{
     width: 60px;
  }
+
+ /* deals section  */
+ .deal-container{
+    width: 100%;
+    height: 400px;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+ }
+ .deal-img{
+    width: 220px;
+    margin-right: 47px;
+ }
+ .deal-text-part{
+    text-align: center;
+ }
+ .deal-title{
+    font-size: 28px;
+    font-family: Lato;
+    font-weight: 800;
+    color: black;
+ }
+ .deal-info{
+    font-size: 13px;
+    font-weight: 400;
+    font-family: Lato;
+    color: rgba(0, 0, 0, 0.582);
+    margin: 15px 0px;
+ }
+ .deal-title-part{
+    color: #E55473;
+ }

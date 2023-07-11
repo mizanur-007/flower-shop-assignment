@@ -338,3 +338,43 @@
    background-repeat: no-repeat;
    filter: grayscale(20%);
 }
+
+/* latest deals section  */
+
+.latest-deals-container{
+   width: 73.5%;
+   height: 280px;
+   background-image: url("./Flower Asset/Rectangle\ 9.png");
+   margin: auto;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-bottom: 20px;
+   border-radius: 10px;
+}
+.latest{
+   padding-top: 90px;
+}
+.latest-title{
+   font-size: 30px;
+   font-weight: 700;
+   color: black;
+   font-family: Lato;
+}
+.latest-info{
+   font-size: 15px;
+   font-weight: 400;
+   font-family: Lato;
+   color: rgba(0, 0, 0, 0.808);
+   margin-top: 10px;
+   margin-bottom: 15px;
+}
+.email{
+   border: none;
+   height: 44px;
+   width: 460px;
+   border-radius: 10px;
+   padding-left: 25px;
+   color: black;
+
+}

@@ -184,3 +184,97 @@ cursor: pointer;
  .deal-title-part{
     color: #E55473;
  }
+ /* extra section  */
+ /* favourite deals  */
+ .favourite-heading{
+   text-align: center;
+   margin-top: 80px;
+ }
+ .favourite-title{
+   font-size: 30px;
+   font-weight: 700;
+   color: black;
+   font-family: Lato;
+   margin-bottom: 0px;
+ }
+ .favourite-info{
+   font-size: 15px;
+   font-weight: 400;
+   font-family: Lato;
+   color: rgba(0, 0, 0, 0.584);
+   margin-top: 10px;
+ }
+ .title-part{
+   color: #e77991e3;
+ }
+ .favourite-img-info-container{
+   width: 90%;
+   height: 380px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   gap: 15px;
+   margin-top: 20px;
+ }
+ .favourite-img{
+   width: 280px;
+   height: 300px;
+   background-color:rgba(69, 8, 8, 0.717);
+   display: flex;
+   justify-content: center;
+   border-radius: 5px;
+   margin-top: 25px;
+   align-items: center;
+   box-shadow: 10px 10px 15px black;
+ }
+ .favourite-img2{
+   width: 280px;
+   height: 300px;
+   background-color: rgba(69, 29, 231, 0.15);
+   display: flex;
+   justify-content: center;
+   border-radius: 5px;
+   margin-top: 25px;
+   align-items: center;
+   box-shadow: 10px 10px 15px black;
+ }
+ .favourite-img3{
+   width: 280px;
+   height: 300px;
+   background-color: rgba(214, 13, 154, 0.411);
+   display: flex;
+   justify-content: center;
+   border-radius: 5px;
+   margin-top: 25px;
+   align-items: center;
+   box-shadow: 10px 10px 15px black;
+ }
+ .fav-image{
+   width: 220px;
+   height: 180;
+   padding-top: 20px;
+  
+ }
+ .fav-image2{
+   width: 220px;
+   height: 180;
+   padding-top: 20px;
+ }
+ .fav-image3{
+   width: 220px;
+   height: 180;
+   padding-top: 20px;
+   
+ }
+ .favourite-info{
+   text-align: center;
+   margin-top: 25px;
+ }
+ .flower-title{
+   font-size: 28px;
+   font-weight: 800;
+   font-family: Lato;
+   margin-bottom: 10px;
+ }
+
